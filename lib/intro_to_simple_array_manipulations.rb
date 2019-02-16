@@ -3,3 +3,7 @@ def using_push(array, string)
   string = "Niger"
   array.push(string)
 end
+
+def using_unshift(array, string)
+  array = []
+end
