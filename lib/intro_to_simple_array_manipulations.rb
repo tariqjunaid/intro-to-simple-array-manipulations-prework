@@ -5,7 +5,7 @@ def using_push(array, string)
 end
 
 def using_unshift(array, string)
-  array = Array.(5)
+  array = Array.size(5)
   #["", "", "", "", ""]
   string = "Brooklyn Heights"
   array.unshift(string)
