@@ -30,7 +30,9 @@ def using_insert(ary, obj)
   ary.insert(4, obj)
 end
 
-
+def using_uniq(ary)
+  
+end
 
 
 
