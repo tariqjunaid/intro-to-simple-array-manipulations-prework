@@ -35,7 +35,7 @@ def using_uniq(ary)
 end
 
 def using_flatten(ary)
-  
+  ary.flatten
 end
 
 
