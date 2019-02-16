@@ -39,7 +39,7 @@ def using_flatten(ary)
 end
 
 def using_delete(ary, str)
-  
+  ary.delete(str)
 end
 
 
