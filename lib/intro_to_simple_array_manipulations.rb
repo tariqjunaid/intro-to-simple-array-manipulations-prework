@@ -26,6 +26,6 @@ def using_concat(ary1, ary2)
   ary1.concat(ary2)
 end
 
-def using_insert
-  
+def using_insert(ary, obj)
+  ary.insert(4, obj)
 end
