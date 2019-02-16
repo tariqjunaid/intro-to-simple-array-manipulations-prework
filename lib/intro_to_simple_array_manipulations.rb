@@ -9,3 +9,7 @@ def using_unshift(array, string)
   string = "Brooklyn Heights"
   array.unshift(string)
 end
+
+def using_pop(array)
+  
+end
