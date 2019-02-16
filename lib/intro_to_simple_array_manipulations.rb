@@ -42,7 +42,9 @@ def using_delete(ary, str)
   ary.delete(str)
 end
 
-
+def using_delete_at(ary, int)
+  
+end
 
 
 
