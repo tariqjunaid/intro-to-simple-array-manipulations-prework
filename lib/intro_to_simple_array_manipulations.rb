@@ -21,3 +21,6 @@ end
 def shift_with_args(ary)
   ary.shift(2)
 end
+
+def using_concat(ary1, ary2)
+  
