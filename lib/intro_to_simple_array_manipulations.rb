@@ -31,7 +31,7 @@ def using_insert(ary, obj)
 end
 
 def using_uniq(ary)
-  
+  ary.uniq
 end
 
 
