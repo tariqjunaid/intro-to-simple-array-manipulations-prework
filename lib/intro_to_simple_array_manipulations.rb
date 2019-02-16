@@ -1,23 +1,23 @@
-def using_push(array, string)
- array << (string)
+def using_push(ary, str)
+ ary << (str)
 end
 
-def using_unshift(array, string)
-  array.unshift(string)
+def using_unshift(ary, str)
+  ary.unshift(str)
 end
 
-def using_pop(array)
-  array.pop
+def using_pop(ary)
+  ary.pop
 end
 
-def pop_with_args(array)
-  array.pop(2)
+def pop_with_args(ary)
+  ary.pop(2)
 end
 
-def using_shift(array)
-  array.shift
+def using_shift(ary)
+  ary.shift
 end
 
-def shift_with_args(array)
-  array.shift(2)
+def shift_with_args(ary)
+  ary.shift(2)
 end
