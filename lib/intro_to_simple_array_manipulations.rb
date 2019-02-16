@@ -38,5 +38,22 @@ def using_flatten(ary)
   ary.flatten
 end
 
+def using_delete(ary, str)
+  
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
