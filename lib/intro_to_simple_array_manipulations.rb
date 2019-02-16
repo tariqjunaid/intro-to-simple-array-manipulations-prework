@@ -8,4 +8,6 @@ def using_unshift(array, string)
   array = []
   string = "Brooklyn Heights"
   array.unshift(string)
+  array.size += 1
+  
 end
