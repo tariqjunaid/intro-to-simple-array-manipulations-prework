@@ -29,3 +29,10 @@ end
 def using_insert(ary, obj)
   ary.insert(4, obj)
 end
+
+
+
+
+
+
+
