@@ -1,6 +1,6 @@
 def using_push(array, string)
   array = []
-  string = "Niger"
+  string = "Nigeria"
   array.push(string)
 end
 
