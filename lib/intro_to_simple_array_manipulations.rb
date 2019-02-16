@@ -9,5 +9,5 @@ def using_unshift(array, string)
   string = "Brooklyn Heights"
   array.unshift(string)
   array.size += 1
-  
+  array
 end
