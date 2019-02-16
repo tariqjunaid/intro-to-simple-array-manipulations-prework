@@ -45,17 +45,3 @@ end
 def using_delete_at(ary, int)
   ary.delete_at(int)
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
